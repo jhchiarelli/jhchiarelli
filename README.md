@@ -4,7 +4,7 @@ I'm Jorge Henrique, programmer for over 20 years, passionate about technology. I
 In 2017 I got to know the Dart language, where I have been studying and working on the development of mobile applications using the Flutter framework.
 Today I work developing multiplatform applications and frontend / backend projects.
 
-🐧 **Skills:** Flutter, Java, Kotlin, Swift, Objetive-c, NextJs, Php, JavaScript, Mysql, Postgress, Firebase, MongoDB.
+🐧 **Skills:** Flutter, Java, Kotlin, Swift, Objetive-c, NextJs, Php, JavaScript Angular, HTML5, CSS, C/C++, Mysql, Postgress, Firebase, MongoDB.
 
 🔨 **Tools:** Visual Studio Code, Android Studio, Xcode and Git. 
 
