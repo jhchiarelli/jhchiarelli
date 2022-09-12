@@ -1,10 +1,10 @@
 ### A little about myself 💬
 
-I'm Jorge Henrique, programmer for over 20 years, passionate about technology. I went through experiences in several areas developing solutions on demand, such as ERP, Management Systems, Retail, Commerce and Electronic Games for Desktop (C / C ++), however in 2010 I started studying the development of **mobile applications** (native android with java and kotlin, native ios with swift and objc) and also **web aplication** (javascript, angular, reactjs, nextjs and php) I had the opportunity to also work on backend development (php, nodejs, serverless).
+I'm Jorge Henrique, programmer for over 20 years, passionate about technology. I went through experiences in several areas developing solutions on demand, such as ERP, Management Systems, Retail, Commerce and Electronic Games for Desktop (C / C ++), however in 2010 I started studying the development of mobile applications (native android with java and kotlin, native ios with swift and objc) and also web aplication (javascript, angular, reactjs, nextjs and php) I had the opportunity to also work on backend development (php, nodejs).
 
-In 2017 I got to know the Dart language, where I have been studying and working on the development of mobile applications using the Flutter framework.
+In 2018 I got to know the Dart language, where I have been studying and working on the development of mobile applications using the Flutter framework.
 
-Today I work developing multiplatform applications and frontend / backend projects.
+Today I work developing multiplatform applications.
 
 🐧 **Skills:** Flutter, Java, Kotlin, Swift, Objetive-c, ReactJS, Next.js, NestJS, JavaScript Angular, HTML5, CSS, C/C++, Php, Mysql, Postgress, Firebase, MongoDB, Docker, Kubernetes, Git.
 
