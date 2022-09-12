@@ -12,7 +12,7 @@ Today I work developing multiplatform applications and frontend / backend projec
 
 ✉️ If you want to carry out a project with me (or make small talk), don't hesitate to send me a message:
 
-Business: (jorge.chiarelli@unitysystem.com.br) Personal: (jhcchiarelli@gmail.com)
+Personal: (jhcchiarelli@gmail.com)
 
 <!--
 **jhchiarelli/jhchiarelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
