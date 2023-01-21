@@ -6,7 +6,7 @@ In 2018 I got to know the Dart language, where I have been studying and working 
 
 Today I work developing multiplatform applications.
 
-🐧 **Skills:** Flutter, Java, Kotlin, Swift, Objetive-c, ReactJS, Next.js, NestJS, JavaScript Angular, HTML5, CSS, C/C++, Php, Mysql, Postgress, Firebase, MongoDB, Docker, Kubernetes, Git.
+🐧 **Skills:** Java, Kotlin, Swift, Objetive-c, Flutter, ReactJS, Next.js, NestJS, JavaScript Angular, HTML5, CSS, C/C++, Php, Mysql, Postgress, Firebase, MongoDB, Docker, Kubernetes, Git.
 
 🔨 **Tools:** Visual Studio Code, Android Studio, Xcode and Git. 
 
